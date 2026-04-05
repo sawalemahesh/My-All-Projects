@@ -1,7 +1,7 @@
 <!-- 🔥 Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mahesh+P;Automation+Test+Engineer;Python+Developer;Selenium+%7C+API+Testing+%7C+Playwright;Building+Scalable+Automation+Frameworks" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mahesh+Sawale;Automation+Test+Engineer;Python+Developer;Selenium+%7C+API+Testing+%7C+Playwright;Building+Scalable+Automation+Frameworks" />
 </p>
 
 ---
@@ -108,6 +108,10 @@
 
 * 💼 LinkedIn: https://www.linkedin.com/in/mahesh-sawale/
 * 📧 Email: sawalemahesh1999@gmail.com
+
+---
+
+<img src="https://github.com/sawalemahesh/sawalemahesh/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
